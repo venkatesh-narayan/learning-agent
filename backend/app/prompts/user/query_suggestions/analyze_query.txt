@@ -1,0 +1,6 @@
+Analyze this query and user context:
+
+Recent queries:
+{recent_queries}
+
+Current query: "{query}"

@@ -1,0 +1,11 @@
+Generate follow-up questions for:
+
+Current Query: "{query}"
+Current Topic: {topic}
+
+Context:
+- Known Concepts: {known_concepts}
+- Areas to Review: {gaps}
+- Recommended Topics: {recommended_topics}
+
+Generate natural questions that help them explore this topic further while addressing gaps in their understanding.

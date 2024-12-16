@@ -1,0 +1,23 @@
+Given these existing lines of inquiry:
+{existing_lines}
+
+And this new query: {current_query}
+
+Determine:
+1. Does this query continue any existing line? Which one?
+2. Or does it start a new line of inquiry?
+3. What specific evidence supports your decision?
+
+Consider:
+- How this query relates to existing learning progression
+- Whether it builds on current understanding
+- If it serves the same learning goal
+- Whether it represents natural knowledge building
+
+Provide specific reasoning about:
+1. Learning progression connection
+2. Goal alignment
+3. Understanding development
+4. Knowledge building path
+
+Return your analysis as a QueryLineContext object.

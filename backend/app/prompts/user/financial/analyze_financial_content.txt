@@ -1,0 +1,11 @@
+Analyze this financial content. Extract sections, companies, metrics, topics, and sentiment focusing on concrete evidence and investment value:
+
+{text}
+
+Return your analysis in a structured format with:
+1. Logical sections with key points
+2. Company mentions with relationships
+3. Financial metrics with context
+4. Key business topics discussed
+5. Actionable summary
+6. Evidence-based sentiment score

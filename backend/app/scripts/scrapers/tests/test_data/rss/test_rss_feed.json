@@ -1,0 +1,38 @@
+{
+    "feed_content": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"><channel><title>Apple Newsroom</title><link>https://www.apple.com/newsroom</link><description>Latest News from Apple</description><language>en-US</language><item><title>Apple Reports First Quarter Results</title><link>https://www.apple.com/newsroom/2024/01/apple-reports-first-quarter-results/</link><description>Apple today announced financial results for its fiscal 2024 first quarter ended December 30, 2023.</description><pubDate>Thu, 25 Jan 2024 13:30:00 PST</pubDate></item><item><title>Apple Vision Pro Available February 2</title><link>https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-february-2/</link><description>Apple Vision Pro, Apple's revolutionary spatial computer, will be available beginning Friday, February 2.</description><pubDate>Wed, 24 Jan 2024 09:00:00 PST</pubDate></item></channel></rss>",
+    "test_dates": [
+        "Thu, 25 Jan 2024 13:30:00 PST",
+        "2024-01-25T13:30:00-08:00",
+        "January 25, 2024 13:30:00 PST",
+        "25 Jan 2024 13:30:00 -0800"
+    ],
+    "test_content": "Apple Inc. (AAPL) and Microsoft Corporation (MSFT) announced a new partnership today. The collaboration will focus on integrating Apple's hardware with Microsoft's cloud services. Google (GOOGL) and Amazon (AMZN) are also expected to participate in this initiative.",
+    "entries": [
+        {
+            "title": "Apple Reports First Quarter Results",
+            "link": "https://www.apple.com/newsroom/2024/01/apple-reports-first-quarter-results/",
+            "description": "Apple today announced financial results for its fiscal 2024 first quarter ended December 30, 2023.",
+            "content": "Apple today announced financial results for its fiscal 2024 first quarter ended December 30, 2023. The Company posted quarterly revenue of $120 billion, up 15 percent year over year, and quarterly earnings per diluted share of $2.18, up 20 percent year over year.",
+            "published": "2024-01-25T13:30:00-08:00",
+            "feed_url": "https://www.apple.com/newsroom/feed",
+            "company": {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "sector": "Technology"
+            }
+        },
+        {
+            "title": "Apple Vision Pro Available February 2",
+            "link": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-february-2/",
+            "description": "Apple Vision Pro, Apple's revolutionary spatial computer, will be available beginning Friday, February 2.",
+            "content": "Apple today announced Apple Vision Pro will be available beginning Friday, February 2, at all U.S. Apple Store locations and the U.S. Apple Store online. Vision Pro is a revolutionary spatial computer that transforms how people work, collaborate, connect, relive memories, and enjoy entertainment.",
+            "published": "2024-01-24T09:00:00-08:00",
+            "feed_url": "https://www.apple.com/newsroom/feed",
+            "company": {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "sector": "Technology"
+            }
+        }
+    ]
+}

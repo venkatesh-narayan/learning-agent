@@ -1,0 +1,38 @@
+Evaluate this content for the current learning context:
+
+Query: {query}
+Learning Moment: {moment_type}
+
+Learning Context:
+- Goal: {goal}
+- Progress: {learning_progression}
+- Current Focus: {current_focus}
+
+Knowledge State:
+{knowledge_state}
+
+Content Details:
+- Title: {title}
+- Summary: {summary}
+- Topics: {topics}
+
+Content Sections:
+{sections}
+
+Overall Sentiment: {sentiment}
+
+Recent Interactions:
+{interactions}
+
+Evaluate whether this content provides genuine value by considering:
+1. How well it matches your current knowledge level
+2. Whether it uses effective explanation approaches
+3. If it advances your understanding appropriately
+4. How it fits your demonstrated learning patterns
+5. Whether it supports your current goal
+
+Return your evaluation as a ContentEvaluation object with:
+- Clear yes/no on value
+- Brief explanation using "you" and based on demonstrated behavior
+- Specifically valuable sections
+- Value score based on fit

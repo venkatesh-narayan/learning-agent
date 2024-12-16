@@ -1,0 +1,32 @@
+Generate a search strategy for:
+
+Current Query: {query}
+Moment Type: {moment_type}
+
+Learning Context:
+- Goal: {goal}
+- Progress: {progression}
+- Current Focus: {current_focus}
+
+Understanding:
+{current_knowledge}
+
+Learning Patterns:
+{learning_patterns}
+
+Recent Activity:
+{interactions}
+
+Create search queries that will find content that:
+1. Matches current understanding
+2. Uses approaches that work well
+3. Builds natural progression
+4. Fills important gaps
+
+Consider:
+- What has worked before
+- Natural next steps
+- Helpful perspectives
+- Meaningful connections
+
+Return strategy as a SearchStrategy object.

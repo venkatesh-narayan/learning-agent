@@ -1,0 +1,11 @@
+Analyze these related queries:
+
+Current Query: "{query}"
+Previous Queries (if any):
+{previous_queries}
+
+Determine:
+1. The precise topic being explored, based on explicit query content
+2. How understanding has developed through these queries
+3. Current learning focus and priorities
+4. Natural next steps in knowledge progression

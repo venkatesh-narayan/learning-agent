@@ -1,0 +1,79 @@
+{
+    "status": "OK",
+    "results": [
+        {
+            "ticker": "AAPL",
+            "period": "Q1",
+            "fiscal_year": 2024,
+            "financials": {
+                "balance_sheet": {
+                    "assets": {
+                        "current_assets": {
+                            "cash_and_equivalents": 40000000000,
+                            "short_term_investments": 30000000000,
+                            "accounts_receivable": 25000000000,
+                            "inventory": 5000000000,
+                            "other_current_assets": 10000000000
+                        },
+                        "non_current_assets": {
+                            "property_plant_equipment": 50000000000,
+                            "intangible_assets": 20000000000,
+                            "long_term_investments": 100000000000,
+                            "other_non_current_assets": 15000000000
+                        }
+                    },
+                    "liabilities": {
+                        "current_liabilities": {
+                            "accounts_payable": 30000000000,
+                            "short_term_debt": 10000000000,
+                            "other_current_liabilities": 20000000000
+                        },
+                        "non_current_liabilities": {
+                            "long_term_debt": 100000000000,
+                            "other_non_current_liabilities": 30000000000
+                        }
+                    },
+                    "equity": {
+                        "common_stock": 50000000000,
+                        "retained_earnings": 150000000000,
+                        "other_equity": 20000000000
+                    }
+                },
+                "income_statement": {
+                    "revenues": 120000000000,
+                    "cost_of_revenue": 70000000000,
+                    "gross_profit": 50000000000,
+                    "operating_expenses": {
+                        "research_and_development": 10000000000,
+                        "selling_general_admin": 15000000000,
+                        "other_operating_expenses": 5000000000
+                    },
+                    "operating_income": 20000000000,
+                    "other_income_expense": 1000000000,
+                    "income_before_tax": 21000000000,
+                    "income_tax": 5000000000,
+                    "net_income": 16000000000
+                },
+                "cash_flow_statement": {
+                    "operating_activities": {
+                        "net_income": 16000000000,
+                        "depreciation_amortization": 3000000000,
+                        "changes_in_working_capital": 2000000000,
+                        "other_operating_activities": 1000000000
+                    },
+                    "investing_activities": {
+                        "capital_expenditure": -5000000000,
+                        "investments": -10000000000,
+                        "other_investing_activities": -2000000000
+                    },
+                    "financing_activities": {
+                        "debt_issuance": 5000000000,
+                        "dividends_paid": -4000000000,
+                        "share_repurchases": -20000000000,
+                        "other_financing_activities": -1000000000
+                    }
+                }
+            }
+        }
+    ]
+}

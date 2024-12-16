@@ -1,0 +1,70 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "John Smith",
+            "title": "Apple Reports Record iPhone Sales in Q1 2024",
+            "description": "Apple Inc reported record iPhone sales in the first quarter of 2024, driven by strong demand in China and emerging markets.",
+            "url": "https://example.com/article1",
+            "urlToImage": "https://example.com/image1.jpg",
+            "publishedAt": "2024-01-25T12:00:00Z",
+            "content": "Apple Inc. (AAPL) reported record iPhone sales in Q1 2024, with revenue reaching $120 billion. The company saw particularly strong growth in China and other emerging markets. CEO Tim Cook attributed the success to the new iPhone 15 lineup and expanding services business.",
+            "company": {
+                "symbol": "AAPL",
+                "name": "Apple Inc.",
+                "sector": "Technology"
+            }
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Jane Doe",
+            "title": "Google's AI Advancements Drive Stock Rally",
+            "description": "Alphabet's stock surges as investors react positively to new AI product announcements and strong cloud revenue growth.",
+            "url": "https://example.com/article2",
+            "urlToImage": "https://example.com/image2.jpg",
+            "publishedAt": "2024-01-24T14:30:00Z",
+            "content": "Alphabet Inc. (GOOGL) shares rallied following announcements of new AI products and strong cloud revenue growth. The company's focus on AI integration across its product lineup has been well-received by investors and analysts.",
+            "company": {
+                "symbol": "GOOGL",
+                "name": "Alphabet Inc.",
+                "sector": "Technology"
+            }
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Robert Johnson",
+            "title": "Global Markets Rally on Strong Economic Data",
+            "description": "Stock markets worldwide surge as economic indicators point to sustained growth and controlled inflation.",
+            "url": "https://example.com/article3",
+            "urlToImage": "https://example.com/image3.jpg",
+            "publishedAt": "2024-01-23T09:15:00Z",
+            "content": "Global stock markets rallied on Thursday as new economic data showed stronger-than-expected growth and signs that inflation is moderating. The positive data has led to increased optimism about the economic outlook for 2024.",
+            "query": "market analysis"
+        },
+        {
+            "source": {
+                "id": "wsj",
+                "name": "Wall Street Journal"
+            },
+            "author": "Sarah Wilson",
+            "title": "Tech Sector Earnings Season Preview",
+            "description": "Analysis of expectations and key trends for the upcoming technology sector earnings season.",
+            "url": "https://example.com/article4",
+            "urlToImage": "https://example.com/image4.jpg",
+            "publishedAt": "2024-01-22T16:45:00Z",
+            "content": "As the technology sector enters earnings season, analysts are focusing on AI investments, cloud growth, and consumer spending patterns. Major companies are expected to show resilient growth despite economic uncertainties.",
+            "query": "earnings report"
+        }
+    ]
+}

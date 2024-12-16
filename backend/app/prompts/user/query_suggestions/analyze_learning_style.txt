@@ -1,0 +1,15 @@
+Analyze these recent queries to determine the user's learning style:
+
+Recent queries:
+{queries}
+
+Consider:
+- The progression between topics
+- The type of questions asked
+- The depth of inquiry
+- The balance between practical and theoretical questions
+
+Identify their preferred:
+1. Approach (practical, theoretical, or mixed)
+2. Exploration style (breadth-first, depth-first, or balanced)
+3. Interaction pattern (sequential, exploratory, or problem-driven)

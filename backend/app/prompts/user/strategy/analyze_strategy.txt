@@ -1,0 +1,34 @@
+Analyze these search results:
+
+Query: {query}
+Moment Type: {moment_type}
+
+Knowledge State:
+{knowledge_state}
+
+Learning Patterns:
+{learning_patterns}
+
+Strategy Details:
+Technical Approach:
+{technical_depth}
+
+Concepts Covered:
+{concepts}
+
+Previous Attempts:
+{attempts}
+
+Analyze:
+1. What approaches actually helped learning?
+2. Where did content miss the mark?
+3. How well did explanations work?
+4. What needs to change for better results?
+
+Consider:
+- Natural learning progression
+- Effective explanation patterns
+- Meaningful connections made
+- Real understanding gained
+
+Return analysis as a StrategyRefinement object with specific evidence for your decisions.

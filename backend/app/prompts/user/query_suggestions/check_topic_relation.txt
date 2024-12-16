@@ -1,0 +1,6 @@
+Determine if this query is related to the topic:
+
+Query: "{query}"
+Topic: "{topic}"
+
+Consider if they share meaningful learning context or if understanding one helps understand the other.

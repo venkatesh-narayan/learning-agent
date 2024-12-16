@@ -1,0 +1,56 @@
+{
+    "status": "OK",
+    "results": {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide.",
+        "sic_code": "3571",
+        "sic_description": "Electronic Computers",
+        "total_employees": 164000,
+        "list_date": "1980-12-12",
+        "share_class_shares_outstanding": 15821899000,
+        "weighted_shares_outstanding": 15821899000,
+        "market_cap": 3000000000000,
+        "phone_number": "(408) 996-1010",
+        "address": {
+            "address1": "One Apple Park Way",
+            "city": "Cupertino",
+            "state": "CA",
+            "postal_code": "95014"
+        },
+        "branding": {
+            "logo_url": "https://api.polygon.io/v1/reference/company-branding/AAPL/images/logo"
+        }
+    },
+    "news": {
+        "status": "OK",
+        "results": [
+            {
+                "id": "test_news_1",
+                "publisher": {
+                    "name": "Reuters",
+                    "homepage_url": "https://www.reuters.com"
+                },
+                "title": "Apple reports record quarterly revenue",
+                "author": "John Smith",
+                "published_utc": "2024-01-25T00:00:00Z",
+                "article_url": "https://example.com/article1",
+                "tickers": ["AAPL"],
+                "description": "Apple Inc reported record quarterly revenue, driven by strong iPhone sales."
+            },
+            {
+                "id": "test_news_2",
+                "publisher": {
+                    "name": "Bloomberg",
+                    "homepage_url": "https://www.bloomberg.com"
+                },
+                "title": "Apple unveils new product line",
+                "author": "Jane Doe",
+                "published_utc": "2024-01-24T00:00:00Z",
+                "article_url": "https://example.com/article2",
+                "tickers": ["AAPL"],
+                "description": "Apple Inc announced a new line of products at their annual event."
+            }
+        ]
+    }
+}

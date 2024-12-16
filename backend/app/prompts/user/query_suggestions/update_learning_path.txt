@@ -1,0 +1,12 @@
+Analyze this learning context:
+
+Topic: {topic}
+Current query: "{query}"
+Previous queries about this topic:
+{previous_queries}
+
+Current state:
+- Known concepts: {known_concepts}
+- Current gaps identified: {current_gaps}
+
+Update the learning guidance based on how understanding has evolved through these interactions.

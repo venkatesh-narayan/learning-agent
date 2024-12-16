@@ -1,0 +1,6 @@
+Analyze this financial content and extract precise concepts, relationships, and complexity assessment.
+
+Text to analyze:
+{text}
+
+Extract specific concepts with measurable metrics and clear relationships. Provide complexity analysis based on technical depth and prerequisites.

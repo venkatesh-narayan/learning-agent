@@ -1,0 +1,35 @@
+Analyze this query and context:
+
+Current Query: "{query}"
+
+Learning Context:
+- Overall Goal: {line_goal}
+- Progress So Far: {learning_progression}
+- Current Focus: {current_focus}
+
+Recent Queries:
+{recent_queries}
+
+Determine:
+1. Main Topic:
+   - Central focus area
+   - Key concept domain
+   - Learning target
+
+2. Key Aspects:
+   - Specific interests
+   - Critical components
+   - Understanding needs
+
+3. Related Areas:
+   - Connected concepts
+   - Supporting knowledge
+   - Relevant domains
+
+Consider:
+- How this builds on progress
+- What understanding it develops
+- Where it leads naturally
+- What knowledge it requires
+
+Return your analysis as a QueryAnalysis object.

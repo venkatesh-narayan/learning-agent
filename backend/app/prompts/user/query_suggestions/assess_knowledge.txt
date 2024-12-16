@@ -1,0 +1,9 @@
+Analyze the user's knowledge in: {topic}
+
+Recent relevant queries:
+{queries}
+
+Current known concepts:
+{current_knowledge}
+
+Identify what concepts and topics they've demonstrated understanding of based on their questions and interactions.

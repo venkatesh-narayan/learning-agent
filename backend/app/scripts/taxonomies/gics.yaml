@@ -1,0 +1,143 @@
+# GICS (Global Industry Classification Standard) hierarchy
+Information Technology:
+  Software & Services:
+    - Application Software
+    - Systems Software
+    - IT Consulting
+    - Internet Services
+    - Data Processing
+    - Payment Processing
+  Technology Hardware:
+    - Communications Equipment
+    - Computers & Peripherals
+    - Electronic Equipment
+    - Semiconductors
+    - Semiconductor Equipment
+  
+Financials:
+  Banks:
+    - Diversified Banks
+    - Regional Banks
+    - Thrifts & Mortgage
+    - Specialized Finance
+  Insurance:
+    - Insurance Brokers
+    - Life & Health Insurance
+    - Multi-line Insurance
+    - Property & Casualty
+    - Reinsurance
+  Diversified Financials:
+    - Asset Management
+    - Investment Banking
+    - Consumer Finance
+    - Capital Markets
+    - Financial Exchanges
+
+Healthcare:
+  Healthcare Equipment:
+    - Healthcare Equipment
+    - Healthcare Supplies
+    - Healthcare Technology
+    - Life Sciences Tools
+  Pharmaceuticals & Biotechnology:
+    - Biotechnology
+    - Pharmaceuticals
+    - Life Sciences
+  Healthcare Providers:
+    - Healthcare Facilities
+    - Healthcare Services
+    - Managed Healthcare
+
+Consumer Discretionary:
+  Automobiles:
+    - Auto Components
+    - Automobile Manufacturers
+    - Motorcycle Manufacturers
+  Consumer Durables:
+    - Household Durables
+    - Leisure Products
+    - Apparel & Accessories
+  Consumer Services:
+    - Hotels & Travel
+    - Restaurants
+    - Education Services
+    - Specialized Consumer Services
+
+Consumer Staples:
+  Food & Staples:
+    - Drug Retail
+    - Food Retail
+    - Hypermarkets
+  Food & Beverages:
+    - Beverages
+    - Food Products
+    - Tobacco
+  Household Products:
+    - Household Products
+    - Personal Products
+
+Energy:
+  Energy Equipment:
+    - Energy Equipment
+    - Oil & Gas Services
+  Oil & Gas:
+    - Integrated Oil & Gas
+    - Oil & Gas Exploration
+    - Oil & Gas Refining
+    - Oil & Gas Storage
+
+Materials:
+  Chemicals:
+    - Commodity Chemicals
+    - Specialty Chemicals
+    - Industrial Gases
+    - Agricultural Chemicals
+  Construction Materials:
+    - Construction Materials
+    - Metal & Glass Containers
+  Metals & Mining:
+    - Aluminum
+    - Copper
+    - Gold
+    - Precious Metals
+    - Steel
+
+Industrials:
+  Capital Goods:
+    - Aerospace & Defense
+    - Building Products
+    - Construction & Engineering
+    - Electrical Equipment
+    - Industrial Machinery
+  Commercial Services:
+    - Professional Services
+    - Research & Consulting
+    - Environmental Services
+  Transportation:
+    - Air Freight & Logistics
+    - Airlines
+    - Marine Transportation
+    - Road & Rail
+
+Real Estate:
+  Real Estate Investment:
+    - Diversified REITs
+    - Industrial REITs
+    - Office REITs
+    - Retail REITs
+    - Residential REITs
+  Real Estate Management:
+    - Real Estate Services
+    - Real Estate Development
+    - Real Estate Operating
+
+Communication Services:
+  Telecommunication:
+    - Integrated Telecommunication
+    - Wireless Telecommunication
+  Media & Entertainment:
+    - Advertising
+    - Broadcasting
+    - Entertainment Content
+    - Interactive Media
+    - Publishing

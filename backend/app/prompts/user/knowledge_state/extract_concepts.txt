@@ -1,0 +1,5 @@
+Extract the key concepts explained in this response:
+
+{response}
+
+Return a list of concepts without any additional commentary.

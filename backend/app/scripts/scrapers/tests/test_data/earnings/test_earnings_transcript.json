@@ -1,0 +1,35 @@
+{
+    "id": "12345",
+    "symbol": "AAPL",
+    "date": "2024-01-25",
+    "quarter": "Q1",
+    "fiscal_year": 2024,
+    "title": "Apple Inc. (AAPL) Q1 2024 Earnings Call Transcript",
+    "presentation": "Operator: Good day and welcome to Apple's First Quarter 2024 Earnings Conference Call. Today's call is being recorded.\n\nAt this time, I would like to turn the call over to Tim Cook, Apple's CEO. Please go ahead, sir.\n\nTim Cook: Thank you. Good afternoon and thanks to everyone for joining us today. I'm excited to share that we had an incredible quarter with strong growth across our product categories and geographic segments.\n\nLuca Maestri: Thank you Tim. I'll now provide more details about our financial results. Our revenue for the quarter was $120 billion, up 15% year over year.",
+    "qa_session": "Operator: We will now begin the question-and-answer session. Our first question comes from Katy Huberty with Morgan Stanley.\n\nKaty Huberty: Thank you. Tim, can you discuss the trends you're seeing in iPhone demand, particularly in China?\n\nTim Cook: Thanks for the question, Katy. We're seeing strong demand for iPhone across all regions, and China continues to be a key market for us. The iPhone 15 lineup has been particularly well-received.\n\nOperator: Our next question comes from Toni Sacconaghi with Bernstein.\n\nToni Sacconaghi: Thank you. Could you elaborate on the Services growth and the key drivers?\n\nLuca Maestri: Thanks Toni. Our Services business had a record quarter, driven by strong performance across App Store, Cloud Services, and Apple Pay.",
+    "participants": [
+        {
+            "name": "Tim Cook",
+            "title": "Chief Executive Officer"
+        },
+        {
+            "name": "Luca Maestri",
+            "title": "Chief Financial Officer"
+        },
+        {
+            "name": "Katy Huberty",
+            "organization": "Morgan Stanley"
+        },
+        {
+            "name": "Toni Sacconaghi",
+            "organization": "Bernstein"
+        }
+    ],
+    "metadata": {
+        "call_duration": "60 minutes",
+        "total_participants": 4,
+        "company_name": "Apple Inc.",
+        "company_sector": "Technology",
+        "market_cap": "3T"
+    }
+}

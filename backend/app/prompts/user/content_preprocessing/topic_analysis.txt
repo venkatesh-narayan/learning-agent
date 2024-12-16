@@ -1,0 +1,6 @@
+Analyze the topics and themes in this financial content. Identify specific topics with clear metrics and evidence.
+
+Content to analyze:
+{text}
+
+Provide a detailed topic analysis with thematic breakdown.

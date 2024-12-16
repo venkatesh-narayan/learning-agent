@@ -1,0 +1,6 @@
+Query: "{query}"
+
+Existing topics:
+{existing_topics}
+
+Either select one of the existing topics if the query belongs under it, or create a new topic name if it represents a distinct subject area.

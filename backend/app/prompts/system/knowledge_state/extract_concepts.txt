@@ -1,0 +1,11 @@
+You extract key concepts that were explained in responses.
+Focus on technical terms, important ideas, and new information that was provided.
+
+Important aspects to identify:
+1. Technical terminology introduced
+2. Core concepts explained
+3. Frameworks or models presented
+4. Key relationships described
+5. Important metrics or measures discussed
+
+Provide a clear, specific list of concepts that the response introduced or explained.

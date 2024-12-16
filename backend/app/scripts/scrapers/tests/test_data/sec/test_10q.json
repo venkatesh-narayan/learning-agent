@@ -1,0 +1,5 @@
+{
+    "content": {
+        "filing_html": "<?xml version='1.0' encoding='ASCII'?>\n<html>\n<body>\n<div>\n<h1>PART I - FINANCIAL INFORMATION</h1>\n<p>This section contains our quarterly financial information.</p>\n\n<h2>Item 1. Financial Statements</h2>\n<p>Our consolidated financial statements are presented below.</p>\n\n<h2>Item 2. Management's Discussion and Analysis</h2>\n<p>Analysis of our financial condition and results for the quarter.</p>\n\n<h2>Item 3. Quantitative and Qualitative Disclosures</h2>\n<p>Discussion of market risks and our approach to managing them.</p>\n\n<h2>Item 4. Controls and Procedures</h2>\n<p>Evaluation of our disclosure controls and internal controls.</p>\n\n<h1>PART II - OTHER INFORMATION</h1>\n<p>This section contains other required disclosures.</p>\n\n<h2>Item 1A. Risk Factors</h2>\n<p>Updates to our risk factors for the quarter.</p>\n\n<h2>Item 5. Other Information</h2>\n<p>Additional information required to be disclosed.</p>\n\n<h2>Item 6. Exhibits</h2>\n<p>List of exhibits filed with this report.</p>\n</div>\n</body>\n</html>"
+    }
+}

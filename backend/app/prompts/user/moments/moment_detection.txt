@@ -1,0 +1,34 @@
+Analyze this learning context:
+
+Current Query: "{query}"
+
+Learning Progress:
+- Goal: {goal}
+- Progression So Far: {learning_progression}
+- Current Focus: {current_focus}
+
+Current Topic Knowledge:
+{current_topic_knowledge}
+
+Related Knowledge:
+{related_knowledge}
+
+Learning Patterns:
+{learning_patterns}
+
+Recent Interactions:
+{interaction_history}
+
+Determine:
+1. If this is a genuine learning moment needing recommendations
+2. What type of learning support would be most valuable
+3. Confidence in this assessment
+4. Specific evidence supporting your decision
+
+Focus on:
+- Actual demonstrated understanding, not just exposure
+- Real knowledge connections shown in queries
+- Natural learning progression
+- Clear evidence from their journey
+
+Return your analysis as a MomentDetection object with specific evidence for your decision.

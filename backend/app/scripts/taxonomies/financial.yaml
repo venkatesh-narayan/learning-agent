@@ -1,0 +1,143 @@
+# Financial concepts taxonomy based on CFA curriculum and industry standards
+Quantitative Analysis:
+  Financial Statements:
+    - Income Statement:
+      - Revenue
+      - Cost of Goods Sold
+      - Gross Profit
+      - Operating Expenses
+      - EBIT
+      - Net Income
+      - EPS
+    - Balance Sheet:
+      - Current Assets
+      - Fixed Assets
+      - Intangible Assets
+      - Current Liabilities
+      - Long-term Debt
+      - Shareholders Equity
+    - Cash Flow:
+      - Operating Cash Flow
+      - Investing Cash Flow
+      - Financing Cash Flow
+      - Free Cash Flow
+  
+  Financial Ratios:
+    - Profitability:
+      - Gross Margin
+      - Operating Margin
+      - Net Margin
+      - ROE
+      - ROA
+      - ROIC
+    - Liquidity:
+      - Current Ratio
+      - Quick Ratio
+      - Cash Ratio
+    - Solvency:
+      - Debt to Equity
+      - Interest Coverage
+      - Debt to EBITDA
+    - Efficiency:
+      - Asset Turnover
+      - Inventory Turnover
+      - Receivables Turnover
+
+Business Analysis:
+  Market Analysis:
+    - Market Size
+    - Market Share
+    - Market Growth
+    - Competition
+    - Barriers to Entry
+    - Network Effects
+  
+  Strategy:
+    - Competitive Advantage:
+      - Cost Leadership
+      - Differentiation
+      - Focus Strategy
+    - Growth Strategy:
+      - Organic Growth
+      - M&A
+      - Geographic Expansion
+      - Product Development
+  
+  Operations:
+    - Supply Chain
+    - Production
+    - Distribution
+    - Quality Control
+    - Capacity Utilization
+    - Operational Efficiency
+
+Risk Analysis:
+  Market Risk:
+    - Interest Rate Risk
+    - Currency Risk
+    - Commodity Risk
+    - Equity Risk
+    - Volatility Risk
+  
+  Credit Risk:
+    - Default Risk
+    - Counterparty Risk
+    - Credit Spread Risk
+    - Recovery Rate
+  
+  Operational Risk:
+    - Process Risk
+    - People Risk
+    - Systems Risk
+    - External Events
+  
+  Business Risk:
+    - Strategic Risk
+    - Regulatory Risk
+    - Reputational Risk
+    - Environmental Risk
+
+Valuation:
+  Methods:
+    - DCF Analysis:
+      - FCFF
+      - FCFE
+      - Dividend Discount
+    - Multiple Analysis:
+      - PE Ratio
+      - EV/EBITDA
+      - Price to Book
+    - Asset Based:
+      - NAV
+      - Liquidation Value
+  
+  Drivers:
+    - Growth Rate
+    - Margins
+    - Capital Structure
+    - Cost of Capital
+    - Working Capital
+    - CAPEX
+
+Market Structure:
+  Asset Classes:
+    - Equities
+    - Fixed Income
+    - Commodities
+    - Derivatives
+    - Real Estate
+  
+  Participants:
+    - Investment Banks
+    - Commercial Banks
+    - Asset Managers
+    - Hedge Funds
+    - Private Equity
+    - Retail Investors
+  
+  Trading:
+    - Order Types
+    - Market Making
+    - Liquidity
+    - Price Discovery
+    - Market Impact

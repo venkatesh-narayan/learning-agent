@@ -1,0 +1,14 @@
+Find query lines that provide meaningful context for understanding the current line.
+
+Current Line:
+{current_line}
+
+Other Lines:
+{other_lines}
+
+Return the indices (0-based) of lines that:
+1. Provide useful context for understanding this topic
+2. Share meaningful concept relationships
+3. Offer valuable background knowledge
+
+Return as a list of integers representing line indices.

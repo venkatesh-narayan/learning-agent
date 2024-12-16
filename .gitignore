@@ -1,0 +1,26 @@
+# Folders to ignore
+__pycache__/
+node_modules/
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+

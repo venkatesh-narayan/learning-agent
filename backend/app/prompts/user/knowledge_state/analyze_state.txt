@@ -1,0 +1,17 @@
+Analyze learning progress for:
+
+Current Topic: {current_topic}
+
+Current Interactions:
+{current_interactions}
+
+Related Topic Interactions:
+{related_interactions}
+
+Analyze:
+1. What concepts they've genuinely demonstrated understanding of
+2. What information they've been exposed to
+3. Evidence of understanding from their queries
+4. Learning patterns shown across interactions
+
+Format response as KnowledgeState object with demonstrated knowledge separate from information exposure.
