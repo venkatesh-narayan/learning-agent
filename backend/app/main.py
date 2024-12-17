@@ -43,7 +43,7 @@ async def lifespan(app: FastAPI):
         await db_client.init_indexes()
 
         # Initialize suggestion services (existing code)
-        llm_service = LLMService(os.getenv("OPENAI_API_KEY"), settings.engine_name)
+        llm_service = LLMService(os.getenv("OPENAI_API_KEY"), "gpt-4o-mini")
         learning_service = LearningService(llm_service, db_client)
         suggestions_service = SuggestionsService(
             llm_service, db_client, learning_service
@@ -53,7 +53,7 @@ async def lifespan(app: FastAPI):
         recommendation_orchestrator = RecommendationOrchestrator(
             mongodb_uri=settings.mongodb_uri,
             perplexity_api_key=os.getenv("PERPLEXITY_API_KEY"),
-            model=settings.engine_name,
+            model="gpt-4o",
             max_attempts=3,
         )
 
@@ -159,7 +159,7 @@ async def record_selection(
             timestamp=datetime.now(),
             content_id=request.selected_suggestion,  # Using URL for now as content ID
             content_url=request.selected_suggestion,
-            interaction_type=InteractionType.read_start,  # Using read_start since they clicked to read
+            interaction_type=InteractionType.read_start,
             interaction_data=ReadStartData(
                 section="introduction"
             ),  # They're starting to read

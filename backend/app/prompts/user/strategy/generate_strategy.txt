@@ -8,9 +8,6 @@ Learning Context:
 - Progress: {progression}
 - Current Focus: {current_focus}
 
-Understanding:
-{current_knowledge}
-
 Learning Patterns:
 {learning_patterns}
 

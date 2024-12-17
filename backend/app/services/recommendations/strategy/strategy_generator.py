@@ -48,6 +48,10 @@ class StrategyGenerator:
 
                 return SearchStrategy(
                     search_queries=[*refinement.keep_queries, *refinement.new_queries],
+                    reasoning=[
+                        *refinement.keep_queries_reasoning,
+                        *refinement.new_queries_reasoning,
+                    ],
                     technical_depth_target=(
                         refinement.adjusted_depth
                         if refinement.adjusted_depth is not None
@@ -71,9 +75,9 @@ class StrategyGenerator:
                         goal=line_analysis.inferred_goal,
                         progression=line_analysis.learning_progression,
                         current_focus=line_analysis.current_focus,
-                        current_knowledge=self._format_current_knowledge(
-                            knowledge_state
-                        ),
+                        # current_knowledge=self._format_current_knowledge(
+                        #     knowledge_state
+                        # ),
                         learning_patterns=self._format_learning_patterns(
                             knowledge_state
                         ),
@@ -206,6 +210,7 @@ class StrategyGenerator:
 
         return SearchStrategy(
             search_queries=strategy.search_queries,
+            reasoning=strategy.reasoning,
             technical_depth_target=strategy.technical_depth_target,
             required_concepts=strategy.required_concepts,
             previous_attempts=[*strategy.previous_attempts, attempt],

@@ -35,7 +35,7 @@ class ContentDiscovery:
         self.max_concurrent = max_concurrent_requests
         self.timeout = request_timeout
         self.perplexity_client = PerplexityClient(
-            perplexity_api_key, mongodb_uri, model, request_timeout
+            perplexity_api_key, mongodb_uri, model
         )
 
         # Initialize extractor
