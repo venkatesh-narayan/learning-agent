@@ -25,7 +25,7 @@ This is what the flow looks like:
 
 3. Also from the current query line, we find what the user's goals are. This is super important: we want to make sure the surfaced content aligns deeply with the user's goal.
 
-4. Then, using (2) and (3), we detect what type of "learning moment" the user is falls under. In particular, there are four different learning moments that I've focused on:
+4. Then, using (2) and (3), we detect what type of "learning moment" the query line falls under. In particular, there are four different learning moments that I've focused on:
     - `new_topic_no_context`: completely new topic, and the user has no background
     - `new_topic_with_context`: new topic, but the user has background in relevant fields
     - `concept_struggle`: the user is struggling to understand a certain concept
