@@ -17,7 +17,7 @@ As of right now, this is just an MVP - there are still some parts that could be 
 
 This is what the flow looks like:
 
-<img width="1453" alt="image" src="https://github.com/user-attachments/assets/cc1a2288-d24d-4634-ac3e-6727e13fd4fb" />
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/dd6f2c94-1687-4d4b-a2cd-70378680b08d" />
 
 1. Separate queries into "query lines" - for example, if the user chats a lot about EV companies and then decides to switch the topic to digital analytics companies, the recommendation engine should only focus on the "digital analytics companies" topic, because the "EV companies" topic is unrelated to the current focus. By separating queries into different query lines, we can control what information gets sent to the LLM when trying to generate recommendations.
 
